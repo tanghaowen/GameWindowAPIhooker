@@ -1,4 +1,4 @@
-Windows API Hook
+Windows game API Hooker
 ===============
 
 Hook the game’s *SysCreateWindowExW* api. So we can chagne the game’s window size to *800x600 whitout frame*  without bug.
